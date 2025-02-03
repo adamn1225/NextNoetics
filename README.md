@@ -43,19 +43,11 @@ and an extensible plugin system**.
 
 ### **1️⃣ Install Dependencies**
 
-sh
-
-CopyEdit
-
 *npm install*
 
 ### **2️⃣ Configure Environment Variables**
 
 Create a *.env* file in the root with the following:
-
-sh
-
-CopyEdit
 
 *DATABASE_URL=your_supabase_db_url*
 
@@ -69,25 +61,13 @@ CopyEdit
 
 ### **3️⃣ Run the Project**
 
-sh
-
-CopyEdit
-
 *npm run dev*
 
 ### **4️⃣ Set Up Prisma & Database**
 
-sh
-
-CopyEdit
-
 *npx prisma migrate dev \--name init*
 
 ## **Project Structure**
-
-plaintext
-
-CopyEdit
 
 *deadgenerics/*
 
