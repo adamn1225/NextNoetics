@@ -1,10 +1,10 @@
 README\
 
-# **DeadGenerics** - The Next-Gen Headless CMS & Web Platform
+# **NextNoetics** - The Next-Gen Headless CMS & Web Platform
 
 ### **Overview**
 
-**DeadGenerics** is a modern, modular, and scalable CMS and web
+**NextGenerics** is a modern, modular, and scalable CMS and web
 framework built with **Next.js**. Designed to be a **developer-friendly
 alternative to WordPress**, it offers seamless content management,
 multi-tenant support, and integrations with **Supabase, Netlify, and
